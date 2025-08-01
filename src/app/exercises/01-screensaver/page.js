@@ -18,6 +18,9 @@ function ScreenSaverIndexPage() {
         <li>
           <Link href="/exercises/01-screensaver/white">white</Link>
         </li>
+        <li>
+          <Link href="/exercises/01-screensaver/dodgerblue">dodgerblue</Link>
+        </li>
       </ul>
     </main>
   );
